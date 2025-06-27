@@ -1,0 +1,7 @@
+.loginBox {
+    top: 8%;
+    left: 50%;
+    width: 350px;
+    position: absolute;
+    transform: translateX(-50%);
+}
